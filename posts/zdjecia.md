@@ -5,7 +5,7 @@
 zdjecia z historii
 image1 = Image.open("images/01.jpg").resize((600, 350))
 
-![ewe](Images/01.jpg)
+![ewe](site/images/01.jpg)
 
 ```python
 image1 = ImageTk.PhotoImage(Image.open("images/01.jpg").resize((600, 350)))
