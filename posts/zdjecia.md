@@ -5,8 +5,8 @@
 zdjecia z historii
 
 
-![notka 1](01.jpg)
-![notka 2](02.jpg)
+![notka 1](images/01.jpg)
+![notka 2](images/02.jpg)
 ![notka 3](03.jpg)
 ![notka 4](04.jpg)
 ![notka 5](05.jpg)
