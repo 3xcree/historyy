@@ -8,7 +8,7 @@ zdjecia z historii
 ```python
 def hello():
     return 42
-```
+
 from tkinter import *
 from PIL import ImageTk, Image
 # set up the tkinter window
@@ -46,3 +46,4 @@ infoLabel.pack()
 button.pack(side="bottom", pady=3)
 # run the main loop
 root.mainloop()
+```
