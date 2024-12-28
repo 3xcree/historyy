@@ -3,7 +3,7 @@
 [title]: <> (zdjecia)
 
 zdjecia z historii
-image1 = ImageTk.PhotoImage(Image.open("images/01.jpg").resize((600, 350)))
+image1 = Image.open("images/01.jpg").resize((600, 350))
 
 ```python
 image1 = ImageTk.PhotoImage(Image.open("images/01.jpg").resize((600, 350)))
