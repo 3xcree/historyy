@@ -3,13 +3,13 @@
 [title]: <> (zdjecia)
 
 zdjecia z historii
-image1 = Image.open("images/01.jpg").resize((600, 350))
-
-![ewe](images/01.jpg)
-
-```python
-image1 = ImageTk.PhotoImage(Image.open("images/01.jpg").resize((600, 350)))
-abcd testy
 
 
-```
+![notka 1](images/01.jpg)
+![notka 2](images/02.jpg)
+![notka 3](images/03.jpg)
+![notka 4](images/04.jpg)
+![notka 5](images/05.jpg)
+![notka 6](images/06.jpg)
+![notka 7](images/07.jpg)
+![notka 8](images/08.jpg)
